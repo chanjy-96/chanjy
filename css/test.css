@@ -1,0 +1,35 @@
+body{
+	background-color: grey;
+}
+
+
+h1{
+	color: blue;
+	font-size: 90px;
+	text-decoration: underline;
+
+}
+
+#first{
+
+	font-size: 15px;
+}
+
+h2{
+	color: pink;
+	font-size: 22px;
+
+}
+
+.small{
+	font-size: 10px
+}
+
+span{
+	font-style: italic;
+}
+
+h2 span {
+
+	text-decoration: line-through;
+}
